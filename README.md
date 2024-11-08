@@ -1,2 +1,2 @@
 # chuanyu
-future data scientist's source of inspiration
+future data scientist!
